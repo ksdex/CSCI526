@@ -5,11 +5,11 @@ Team in CSCI526 Game Dev
 
 #### 2021/2/5-wym
 
-地图边缘墙体碰撞
+Wall in the map and collision
 
-角色移动
+Movement
 
-放置炸弹
+Leave bomb
 
 
 
